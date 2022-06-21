@@ -1,0 +1,11 @@
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\bin\Debug\Class 2.LAB.exe.config
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\bin\Debug\Class 2.LAB.exe
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\bin\Debug\Class 2.LAB.pdb
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\obj\Debug\Class 2.LAB.csproj.AssemblyReference.cache
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\obj\Debug\Class 2.LAB.csproj.SuggestedBindingRedirects.cache
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\obj\Debug\Class 2.LAB.csproj.CoreCompileInputs.cache
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\obj\Debug\Class 2.LAB.exe
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\obj\Debug\Class 2.LAB.pdb
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chubk\source\repos\Class 2.LAB\Class 2.LAB\obj\Debug\Class 2.LAB.csproj.CopyComplete
